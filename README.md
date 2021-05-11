@@ -2,15 +2,17 @@
 
 # Instalação
 ```
-1. Clone o repo e cdnele
+1. Clone o repo com o comando git clone 
 
 ```
 ```
-2. composer install
+2. Acesse o repo
+cd myProject-Laravel-TMDb-API
+composer install
 
 ```
 ```
-3. Renomear ou copiar o .env.examplearquivo para.env
+3. Renomear ou copiar o .env.examplearquivo para .env
 
 ```
 ```
