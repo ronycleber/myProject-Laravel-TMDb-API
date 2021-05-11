@@ -1,7 +1,7 @@
 # myProject-Laravel-TMDb-API
 
-`#Instalação`
-1. Clone o repo e cdnele
+#Instalação
+```1. Clone o repo e cdnele```
 2. composer install
 3. Renomear ou copiar o .env.examplearquivo para.env
 4. Defina seu TMDB_TOKENem seu .env
